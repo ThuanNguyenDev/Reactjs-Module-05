@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lesson-10-redux-toolkit-01/lesson-10-redux-toolkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-10-redux-toolkit/lesson-10-redux-toolkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice-01-react-redux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice-02-redux-thunk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice-03-redux-saga" vcs="Git" />
+  </component>
+</project>

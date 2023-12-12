@@ -1,0 +1,19 @@
+{
+  "name": "practice-typescript",
+  "version": "1.0.0",
+  "description": "exericise M5",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./src/main.ts ./src/main.js",
+    "start": "npm run build -- -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ 
+    "typescript"
+  ],
+  "author": "SAME NGUYEN",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
